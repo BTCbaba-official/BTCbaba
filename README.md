@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="logo.png" alt="BTCbaba Logo" width="150"/>
+</p>
+
 # BTCbaba
 
 Official repository for BTC Baba Token.
